@@ -6,4 +6,4 @@ This project is simply me experimenting with writing my resume using LaTeX inste
 
 ## Tools Used
 
-The code was written in **Visual Studio** code using the **LaTeX Workshop** extension, with **TeX Live** as the LaTeX distribution.
+The code was written in **Visual Studio Code** using the **LaTeX Workshop** extension, with **TeX Live** as the LaTeX distribution.
